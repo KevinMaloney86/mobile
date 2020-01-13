@@ -1,0 +1,12 @@
+C:\Users\g00367608\source\repos\mobileapppro\mobileapppro\mobileapppro\bin\Debug\netstandard2.0\mobileapppro.deps.json
+C:\Users\g00367608\source\repos\mobileapppro\mobileapppro\mobileapppro\bin\Debug\netstandard2.0\mobileapppro.dll
+C:\Users\g00367608\source\repos\mobileapppro\mobileapppro\mobileapppro\bin\Debug\netstandard2.0\mobileapppro.pdb
+C:\Users\g00367608\source\repos\mobileapppro\mobileapppro\mobileapppro\obj\Debug\netstandard2.0\mobileapppro.csprojAssemblyReference.cache
+C:\Users\g00367608\source\repos\mobileapppro\mobileapppro\mobileapppro\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\g00367608\source\repos\mobileapppro\mobileapppro\mobileapppro\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\g00367608\source\repos\mobileapppro\mobileapppro\mobileapppro\obj\Debug\netstandard2.0\mobileapppro.csproj.CoreCompileInputs.cache
+C:\Users\g00367608\source\repos\mobileapppro\mobileapppro\mobileapppro\obj\Debug\netstandard2.0\mobileapppro.AssemblyInfoInputs.cache
+C:\Users\g00367608\source\repos\mobileapppro\mobileapppro\mobileapppro\obj\Debug\netstandard2.0\mobileapppro.AssemblyInfo.cs
+C:\Users\g00367608\source\repos\mobileapppro\mobileapppro\mobileapppro\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\g00367608\source\repos\mobileapppro\mobileapppro\mobileapppro\obj\Debug\netstandard2.0\mobileapppro.dll
+C:\Users\g00367608\source\repos\mobileapppro\mobileapppro\mobileapppro\obj\Debug\netstandard2.0\mobileapppro.pdb
